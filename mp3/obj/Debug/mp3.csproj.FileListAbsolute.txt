@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2013\Projects\mp3\mp3\bin\Debug\mp3.exe.config
+D:\Documents\Visual Studio 2013\Projects\mp3\mp3\obj\Debug\Interop.Shell32.dll
+D:\Documents\Visual Studio 2013\Projects\mp3\mp3\obj\Debug\mp3.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2013\Projects\mp3\mp3\bin\Debug\mp3.exe
+D:\Documents\Visual Studio 2013\Projects\mp3\mp3\bin\Debug\mp3.pdb
+D:\Documents\Visual Studio 2013\Projects\mp3\mp3\bin\Debug\Interop.Shell32.dll
+D:\Documents\Visual Studio 2013\Projects\mp3\mp3\obj\Debug\mp3.exe
+D:\Documents\Visual Studio 2013\Projects\mp3\mp3\obj\Debug\mp3.pdb
